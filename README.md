@@ -27,7 +27,7 @@ client.on('interactionCreate', async interaction => {
 login(client);
 ```
 
-Terminal output
+## **Terminal output**
 ```
 Enter your Discord bot token: 
 ```
