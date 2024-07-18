@@ -7,7 +7,7 @@ npm install discord-login-readline
 ```
 
 ## **Example usage**
-```
+```js
 import { Client, GatewayIntentBits } from 'discord.js';
 import { login } from 'discord-login-readline';
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
